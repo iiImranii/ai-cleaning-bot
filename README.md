@@ -1,2 +1,3 @@
 # ai-cleaning-bot
-A program that emulates a robot with a mission to clean the "dirty" spots in its environment using Python.
+
+A goal-based agent program that scans its environment looking for objects like chairs and trolleys to clean, while trying to avoid people.
